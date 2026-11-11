@@ -2,7 +2,7 @@
 
 [Argus](https://github.com/thomasunise/argus) is an open-source (MIT) agentic security operations platform: detections, AI investigation agents, an action broker with approvals and rollback, an AI gateway, and a signed audit chain. Deploy it on Railway with one click.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template?template=https://github.com/onepush-dev/argus-secops)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/Xu-AlK)
 
 Community packaging of upstream commit `6c057e1` (image built unmodified from the upstream Dockerfile); not affiliated with the upstream authors. Not related to other projects named "Argus".
 
